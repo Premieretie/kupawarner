@@ -113,7 +113,7 @@ const projects = [
     title: 'SXSW Australia - Festival Documentation',
     category: 'events',
     image: 'events_sxsw-australia.png',
-    link: 'https://vimeo.com/example',
+    link: 'https://www.youtube.com/watch?v=ni3L_8fce5g',
     description: 'Lead videographer for SXSW Australia festival. Multi-day event coverage capturing keynotes, panels, and festival atmosphere for international audience.',
     client: 'SXSW Australia',
     type: 'Event Videography'
