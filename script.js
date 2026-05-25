@@ -127,7 +127,18 @@ const projects = [
     description: 'Camera operator for motorsport productions. High-speed event videography capturing dynamic racing action and broadcast-quality footage.',
     client: 'Motorsport Production',
     type: 'Event Videography'
+  },
+  {
+    id: 'musicvideo-impact',
+    title: 'Music Video - Impact',
+    category: 'music',
+    image: 'music_impact.png',
+    link: 'https://vimeo.com/example',
+    description: 'Music video production with dynamic camera work and creative storytelling.',
+    client: 'Bart Xl and Johnny from the Burbs',
+    type: 'Music Video'
   }
+
 ];
 
 // Latest/recent work
