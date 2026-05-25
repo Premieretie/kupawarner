@@ -103,7 +103,7 @@ const projects = [
     title: 'PAX Australia 2023 - Lead Videographer',
     category: 'events',
     image: 'events_pax-australia.png',
-    link: 'https://vimeo.com/example',
+    link: 'https://www.youtube.com/watch?v=m_vGepIFO7Y',
     description: 'Lead videographer for Australia\'s largest gaming convention. Multi-camera event coverage with highlight reel production for major gaming event.',
     client: 'PAX Australia',
     type: 'Event Videography'
