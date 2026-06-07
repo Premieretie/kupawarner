@@ -109,6 +109,16 @@ const projects = [
     type: 'Event Videography'
   },
   {
+    id: 'qpay-branded-content',
+    title: 'QPay - Video Brochure',
+    category: 'branded content',
+    image: 'branded_qpay.png',
+    link: 'https://youtu.be/VRakMUmDgTM?si=ZY9SuHibmQ0l3jPG',
+    description: 'Branded content for QPay financial services. Professional corporate videography showcasing brand messaging and product features.',
+    client: 'QPay',
+    type: 'Branded Content'
+  },
+  {
     id: 'dnd-real-1',
     title: 'D&D But Real - Social Content Series (Ep 1)',
     category: 'social content',
@@ -127,17 +137,8 @@ const projects = [
     description: 'Episode 2 of viral social content series. Professional social media videography with narrative-driven approach for gaming content.',
     client: 'Gaming Content Creator',
     type: 'Social Media Content'
-  },
-  {
-    id: 'musicvideo-impact',
-    title: 'Music Video - Impact',
-    category: 'music',
-    image: 'music_impact.png',
-    link: 'https://vimeo.com/example',
-    description: 'Music video production with dynamic camera work and creative storytelling.',
-    client: 'Bart Xl and Johnny from the Burbs',
-    type: 'Music Video'
   }
+  
 
 ];
 
