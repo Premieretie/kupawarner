@@ -119,14 +119,14 @@ const projects = [
     type: 'Event Videography'
   },
   {
-    id: 'motorsport-coverage',
-    title: 'Motorsport Event Coverage - Camera Operator',
-    category: 'events',
-    image: 'events_motorsport.png',
-    link: 'https://vimeo.com/example',
-    description: 'Camera operator for motorsport productions. High-speed event videography capturing dynamic racing action and broadcast-quality footage.',
-    client: 'Motorsport Production',
-    type: 'Event Videography'
+    id: 'oude-meester-Idris Elba',
+    title: 'Oude Meester with Idris Elba',
+    category: 'commercial',
+    image: 'commercial_oude-meester-idris-elba.png',
+    link: 'https://vimeo.com/142368188?fl=pl&fe=sh',
+    description: '=Oude Meester commercial featuring Idris Elba. High-energy commercial filming with dynamic camera work and professional production values.',
+    client: 'Oude Meester',
+    type: 'Commercial'
   },
   {
     id: 'musicvideo-impact',
