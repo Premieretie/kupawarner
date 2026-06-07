@@ -29,6 +29,16 @@ const projects = [
     type: 'Narrative Film'
   },
   {
+    id: 'oude-meester-Idris Elba',
+    title: 'Oude Meester with Idris Elba',
+    category: 'commercial',
+    image: 'commercial_oude-meester-idris-elba.png',
+    link: 'https://vimeo.com/142368188?fl=pl&fe=sh',
+    description: '=Oude Meester commercial featuring Idris Elba. High-energy commercial filming with dynamic camera work and professional production values.',
+    client: 'Oude Meester',
+    type: 'Commercial'
+  },
+  {
     id: 'showreel',
     title: 'Kupa Warner Cinematography Showreel',
     category: 'narrative',
@@ -117,16 +127,6 @@ const projects = [
     description: 'Lead videographer for SXSW Australia festival. Multi-day event coverage capturing keynotes, panels, and festival atmosphere for international audience.',
     client: 'SXSW Australia',
     type: 'Event Videography'
-  },
-  {
-    id: 'oude-meester-Idris Elba',
-    title: 'Oude Meester with Idris Elba',
-    category: 'commercial',
-    image: 'commercial_oude-meester-idris-elba.png',
-    link: 'https://vimeo.com/142368188?fl=pl&fe=sh',
-    description: '=Oude Meester commercial featuring Idris Elba. High-energy commercial filming with dynamic camera work and professional production values.',
-    client: 'Oude Meester',
-    type: 'Commercial'
   },
   {
     id: 'musicvideo-impact',
