@@ -39,6 +39,16 @@ const projects = [
     type: 'Commercial'
   },
   {
+    id: 'forgotten',
+    title: 'Forgotten - Music Video',
+    category: 'music video',
+    image: 'forgotten.png',
+    link: 'https://vimeo.com/1198999312/4cb84dde2f?share=copy&fl=sv&fe=ci',
+    description: 'Music video production with cinematic storytelling approach. Professional music video filming and editing for artistic expression.',
+    client: 'Music Artist',
+    type: 'Music Video'
+  },
+  {
     id: 'showreel',
     title: 'Kupa Warner Cinematography Showreel',
     category: 'narrative',
@@ -47,26 +57,6 @@ const projects = [
     description: 'Professional cinematography showreel showcasing commercial, narrative, and social content work. Brisbane videographer and cinematographer portfolio highlights.',
     client: 'Self',
     type: 'Showreel'
-  },
-  {
-    id: 'dnd-real-1',
-    title: 'D&D But Real - Social Content Series (Ep 1)',
-    category: 'social content',
-    image: 'socia_dnd1.png',
-    link: 'https://www.youtube.com/watch?v=ftAvFcuVAEg',
-    description: 'High-engagement social media content for gaming audience. YouTube content creation with cinematic production values for viral social content.',
-    client: 'Gaming Content Creator',
-    type: 'Social Media Content'
-  },
-  {
-    id: 'dnd-real-2',
-    title: 'D&D But Real - Social Content Series (Ep 2)',
-    category: 'social content',
-    image: 'socia_dnd2.png',
-    link: 'https://www.youtube.com/watch?v=bXigDEC9SkQ',
-    description: 'Episode 2 of viral social content series. Professional social media videography with narrative-driven approach for gaming content.',
-    client: 'Gaming Content Creator',
-    type: 'Social Media Content'
   },
   {
     id: 'maori-cultural',
@@ -99,14 +89,14 @@ const projects = [
     type: 'Tourism Documentary'
   },
   {
-    id: 'forgotten',
-    title: 'Forgotten - Music Video',
-    category: 'music video',
-    image: 'forgotten.png',
-    link: 'https://vimeo.com/1198999312/4cb84dde2f?share=copy&fl=sv&fe=ci',
-    description: 'Music video production with cinematic storytelling approach. Professional music video filming and editing for artistic expression.',
-    client: 'Music Artist',
-    type: 'Music Video'
+    id: 'sxsw-australia',
+    title: 'SXSW Australia - Festival Documentation',
+    category: 'events',
+    image: 'events_sxsw-australia.png',
+    link: 'https://www.youtube.com/watch?v=ni3L_8fce5g',
+    description: 'Lead videographer for SXSW Australia festival. Multi-day event coverage capturing keynotes, panels, and festival atmosphere for international audience.',
+    client: 'SXSW Australia',
+    type: 'Event Videography'
   },
   {
     id: 'pax-australia-2023',
@@ -119,14 +109,24 @@ const projects = [
     type: 'Event Videography'
   },
   {
-    id: 'sxsw-australia',
-    title: 'SXSW Australia - Festival Documentation',
-    category: 'events',
-    image: 'events_sxsw-australia.png',
-    link: 'https://www.youtube.com/watch?v=ni3L_8fce5g',
-    description: 'Lead videographer for SXSW Australia festival. Multi-day event coverage capturing keynotes, panels, and festival atmosphere for international audience.',
-    client: 'SXSW Australia',
-    type: 'Event Videography'
+    id: 'dnd-real-1',
+    title: 'D&D But Real - Social Content Series (Ep 1)',
+    category: 'social content',
+    image: 'socia_dnd1.png',
+    link: 'https://www.youtube.com/watch?v=ftAvFcuVAEg',
+    description: 'High-engagement social media content for gaming audience. YouTube content creation with cinematic production values for viral social content.',
+    client: 'Gaming Content Creator',
+    type: 'Social Media Content'
+  },
+  {
+    id: 'dnd-real-2',
+    title: 'D&D But Real - Social Content Series (Ep 2)',
+    category: 'social content',
+    image: 'socia_dnd2.png',
+    link: 'https://www.youtube.com/watch?v=bXigDEC9SkQ',
+    description: 'Episode 2 of viral social content series. Professional social media videography with narrative-driven approach for gaming content.',
+    client: 'Gaming Content Creator',
+    type: 'Social Media Content'
   },
   {
     id: 'musicvideo-impact',
