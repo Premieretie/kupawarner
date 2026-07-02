@@ -39,7 +39,7 @@ const projects = [
     type: 'Commercial'
   },
   {
-    id: 'music-is-everything', 
+    id: 'music-is-everything',
     title: 'Music Is Everything - Cinematic Brand Film',
     category: 'commercial',
     image: 'commercial_music-is-everything.png',
@@ -214,7 +214,7 @@ const latest = [
     description: 'Cinematic brand film showcasing music as a universal language. High-end commercial video production for premium brand positioning.',
     client: 'Commercial Brand',
     type: 'Brand Film'
-  },
+  }
   // {
   //   id: 'pulse-music-video',
   //   title: 'Pulse - Music Video Production',
