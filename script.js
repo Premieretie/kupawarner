@@ -39,7 +39,7 @@ const projects = [
     type: 'Commercial'
   },
   {
-    id: 'music-is-everything',
+    id: 'music-is-everything', 
     title: 'Music Is Everything - Cinematic Brand Film',
     category: 'commercial',
     image: 'commercial_music-is-everything.png',
