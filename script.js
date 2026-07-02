@@ -39,6 +39,16 @@ const projects = [
     type: 'Commercial'
   },
   {
+    id: 'pulse-music-video',
+    title: 'Pulse - Music Video Production',
+    category: 'music video',
+    image: 'musicvideo_pulse.png',
+    link: 'https://www.youtube.com/watch?v=aqz-KE-bpKQ',
+    description: 'Cinematic music video production with narrative elements. Brisbane music video production with festival-quality cinematography.',
+    client: 'Music Artist',
+    type: 'Music Video'
+  },
+  {
     id: 'forgotten',
     title: 'Forgotten - Music Video',
     category: 'music video',
@@ -137,7 +147,58 @@ const projects = [
     description: 'Episode 2 of viral social content series. Professional social media videography with narrative-driven approach for gaming content.',
     client: 'Gaming Content Creator',
     type: 'Social Media Content'
-  }
+  },
+  {
+    id: 'short-form-stumpys-garage',
+    title: 'Stumpys Garage - Social Content',
+    category: 'social content',
+    image: 'socia_stumpys-garage.png',
+    link: 'https://youtube.com/shorts/psK97-GXfds?si=cyYbD98Acy7YUDj2',
+    description: 'Short-form social media content optimized for TikTok, Instagram Reels, and YouTube Shorts. High-engagement video production for social platforms.',
+    client: 'Stumpys Garage',
+    type: 'Social Media Content'
+  },
+  {
+    id: 'short-form-stumpys-garage-2',
+    title: 'Stumpys Garage - Social Content',
+    category: 'social content',
+    image: 'socia_stumpys-garage-2.png',
+    link: 'https://youtube.com/shorts/tKxoJVCEM7Q?si=-OKtkCox2nZPenBl',
+    description: 'Short-form social media content optimized for TikTok, Instagram Reels, and YouTube Shorts. High-engagement video production for social platforms.',
+    client: 'Stumpys Garage',
+    type: 'Social Media Content'
+  },
+  {
+    id: 'short-form-stumpys-garage-3',
+    title: 'Stumpys Garage - Social Content',
+    category: 'social content',
+    image: 'socia_stumpys-garage-3.png',
+    link: 'https://youtube.com/shorts/hrwIQN9upb4?si=9HIPxuoEDEhei560',
+    description: 'Short-form social media content optimized for TikTok, Instagram Reels, and YouTube Shorts. High-engagement video production for social platforms.',
+    client: 'Stumpys Garage',
+    type: 'Social Media Content'
+  },
+  {
+    id: 'short-form-stumpys-garage-4',
+    title: 'Stumpys Garage - Social Content',
+    category: 'social content',
+    image: 'socia_stumpys-garage-4.png',
+    link: 'https://youtube.com/shorts/dty66N89pfc?si=4U-X9F7kU2OkJ5Ta',
+    description: 'Short-form social media content optimized for TikTok, Instagram Reels, and YouTube Shorts. High-engagement video production for social platforms.',
+    client: 'Stumpys Garage',
+    type: 'Social Media Content'
+  },
+  {
+    id: 'short-form-stumpys-garage-5',
+    title: 'Stumpys Garage - Social Content',
+    category: 'social content',
+    image: 'socia_stumpys-garage-5.png',
+    link: 'https://youtube.com/shorts/CW-55ikRHjk?si=HR-s_0RCNSITbJyT',
+    description: 'Short-form social media content optimized for TikTok, Instagram Reels, and YouTube Shorts. High-engagement video production for social platforms.',
+    client: 'Stumpys Garage',
+    type: 'Social Media Content'
+  },
+
   
 
 ];
@@ -145,45 +206,45 @@ const projects = [
 // Latest/recent work
 const latest = [
   {
-    id: 'golden-hour',
-    title: 'Golden Hour - Cinematic Brand Film',
+    id: 'music-is-everything',
+    title: 'Music Is Everything - Cinematic Brand Film',
     category: 'commercial',
-    image: 'commercial_golden-hour.png',
-    link: 'https://vimeo.com/90509568',
-    description: 'Cinematic brand film showcasing golden hour cinematography techniques. High-end commercial video production for premium brand positioning.',
+    image: 'commercial_music-is-everything.png',
+    link: 'https://www.youtube.com/watch?v=OYBFyi7EOIE&si=hJATwBozSwp1NEH8',
+    description: 'Cinematic brand film showcasing music as a universal language. High-end commercial video production for premium brand positioning.',
     client: 'Commercial Brand',
     type: 'Brand Film'
   },
-  {
-    id: 'pulse-music-video',
-    title: 'Pulse - Music Video Production',
-    category: 'music video',
-    image: 'musicvideo_pulse.png',
-    link: 'https://www.youtube.com/watch?v=aqz-KE-bpKQ',
-    description: 'Cinematic music video production with narrative elements. Brisbane music video production with festival-quality cinematography.',
-    client: 'Music Artist',
-    type: 'Music Video'
-  },
-  {
-    id: 'short-form-magic',
-    title: 'Short Form Magic - Social Content',
-    category: 'social content',
-    image: 'socia_short-form-magic.png',
-    link: 'https://www.youtube.com/watch?v=jNQXAC9IVRw',
-    description: 'Short-form social media content optimized for TikTok, Instagram Reels, and YouTube Shorts. High-engagement video production for social platforms.',
-    client: 'Social Media Campaign',
-    type: 'Social Media Content'
-  },
-  {
-    id: 'corporate-training',
-    title: 'Corporate Training Video Series',
-    category: 'commercial',
-    image: 'commercial_training.png',
-    link: 'https://vimeo.com/example',
-    description: 'Professional corporate training video series. Brisbane corporate videography with clear instructional design and professional production values.',
-    client: 'Corporate Client',
-    type: 'Corporate Video'
-  }
+  // {
+  //   id: 'pulse-music-video',
+  //   title: 'Pulse - Music Video Production',
+  //   category: 'music video',
+  //   image: 'musicvideo_pulse.png',
+  //   link: 'https://www.youtube.com/watch?v=aqz-KE-bpKQ',
+  //   description: 'Cinematic music video production with narrative elements. Brisbane music video production with festival-quality cinematography.',
+  //   client: 'Music Artist',
+  //   type: 'Music Video'
+  // },
+  // {
+  //   id: 'short-form-magic',
+  //   title: 'Short Form Magic - Social Content',
+  //   category: 'social content',
+  //   image: 'socia_short-form-magic.png',
+  //   link: 'https://www.youtube.com/watch?v=jNQXAC9IVRw',
+  //   description: 'Short-form social media content optimized for TikTok, Instagram Reels, and YouTube Shorts. High-engagement video production for social platforms.',
+  //   client: 'Social Media Campaign',
+  //   type: 'Social Media Content'
+  // },
+  // {
+  //   id: 'corporate-training',
+  //   title: 'Corporate Training Video Series',
+  //   category: 'commercial',
+  //   image: 'commercial_training.png',
+  //   link: 'https://vimeo.com/example',
+  //   description: 'Professional corporate training video series. Brisbane corporate videography with clear instructional design and professional production values.',
+  //   client: 'Corporate Client',
+  //   type: 'Corporate Video'
+  // }
 ];
 
 // DOM Elements
