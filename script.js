@@ -39,14 +39,14 @@ const projects = [
     type: 'Commercial'
   },
   {
-    id: 'pulse-music-video',
-    title: 'Pulse - Music Video Production',
-    category: 'music video',
-    image: 'musicvideo_pulse.png',
-    link: 'https://www.youtube.com/watch?v=aqz-KE-bpKQ',
-    description: 'Cinematic music video production with narrative elements. Brisbane music video production with festival-quality cinematography.',
-    client: 'Music Artist',
-    type: 'Music Video'
+    id: 'music-is-everything',
+    title: 'Music Is Everything - Cinematic Brand Film',
+    category: 'commercial',
+    image: 'commercial_music-is-everything.png',
+    link: 'https://www.youtube.com/watch?v=OYBFyi7EOIE&si=hJATwBozSwp1NEH8',
+    description: 'Cinematic brand film showcasing music as a universal language. High-end commercial video production for premium brand positioning.',
+    client: 'Commercial Brand',
+    type: 'Brand Film'
   },
   {
     id: 'forgotten',
@@ -416,6 +416,12 @@ filterTabs.forEach((tab) => {
     filterTabs.forEach((t) => t.classList.remove('active'));
     tab.classList.add('active');
     applyFilter(tab.dataset.filter);
+
+    // Scroll to portfolio section
+    const portfolioSection = document.getElementById('portfolio');
+    if (portfolioSection) {
+      portfolioSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
     
     // Update URL hash for shareable filtered views
     const filter = tab.dataset.filter;
