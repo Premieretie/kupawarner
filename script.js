@@ -53,7 +53,7 @@ const projects = [
     id: 'music-is-everything',
     title: 'Music Is Everything - Cinematic Brand Film',
     category: 'commercial',
-    image: 'IMG_5263.png',
+    image: 'commercial_music_is_everything.png',
     link: 'https://www.youtube.com/watch?v=OYBFyi7EOIE&si=hJATwBozSwp1NEH8',
     description: 'Cinematic brand film showcasing music as a universal language. High-end commercial video production for premium brand positioning.',
     client: 'Commercial Brand',
