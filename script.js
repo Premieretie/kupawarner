@@ -12,7 +12,7 @@ const projects = [
     id: 'conor-mcgregor',
     title: 'Conor McGregor "Get Real" Branded Content',
     category: 'commercial',
-    image: 'IMAGE_5265.jpeg',
+    image: 'IMG_5265.jpeg',
     link: 'https://vimeo.com/1169744303',
     description: 'Commercial cinematography for Conor McGregor branded content campaign. High-end commercial video production showcasing cinematic visuals and professional post-production.',
     client: 'Conor McGregor',
