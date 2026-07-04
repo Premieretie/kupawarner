@@ -62,7 +62,7 @@ const projects = [
     id: 'impact',
     title: 'Impact - Music Video',
     category: 'music video',
-    image: 'impact.png',
+    image: 'IMG_5259.jpeg',
     link: 'https://youtu.be/LZHVLhNr8n0?si=vwsFp7l9334IprEB',
     description: 'Music video production with cinematic storytelling approach. Professional music video filming and editing for artistic expression.',
     client: 'Bart XL and Johnny From The Burbs',
