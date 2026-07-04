@@ -1,6 +1,6 @@
 # Kupa Warner - Brisbane Videographer & Cinematographer Website
 
-**Award-winning video production services for commercial, corporate, events, and creative projects across Brisbane, Gold Coast & Australia.***
+**Award-winning video production services for commercial, corporate, events, and creative projects across Brisbane, Gold Coast & Australia.**** 
 
 🏆 Best Cinematography - Vaughan International Film Festival
 
