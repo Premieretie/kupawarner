@@ -43,7 +43,7 @@ const projects = [
     id: 'be-nice',
     title: 'Be Nice - Cinematic Brand Film',
     category: 'commercial',
-    image: 'commercial_music-is-everything.png',
+    image: 'IMG_5263.jpeg',
     link: 'https://youtu.be/Fk-wgNa2m6Q?si=6LhaW3c06b019OCZ',
     description: 'Cinematic brand film showcasing music as a universal language. High-end commercial video production for premium brand positioning.',
     client: 'Commercial Brand',
