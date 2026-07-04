@@ -38,11 +38,22 @@ const projects = [
     client: 'Oude Meester',
     type: 'Commercial'
   },
+
+  {
+    id: 'be-nice',
+    title: 'Be Nice - Cinematic Brand Film',
+    category: 'commercial',
+    image: 'commercial_music-is-everything.png',
+    link: 'https://youtu.be/Fk-wgNa2m6Q?si=6LhaW3c06b019OCZ',
+    description: 'Cinematic brand film showcasing music as a universal language. High-end commercial video production for premium brand positioning.',
+    client: 'Commercial Brand',
+    type: 'Brand Film'
+  },
   {
     id: 'music-is-everything',
     title: 'Music Is Everything - Cinematic Brand Film',
     category: 'commercial',
-    image: 'commercial_music-is-everything.png',
+    image: 'IMG_5263.png',
     link: 'https://www.youtube.com/watch?v=OYBFyi7EOIE&si=hJATwBozSwp1NEH8',
     description: 'Cinematic brand film showcasing music as a universal language. High-end commercial video production for premium brand positioning.',
     client: 'Commercial Brand',
