@@ -491,6 +491,14 @@ function openOnClick(target) {
 openOnClick(grid);
 openOnClick(latestGrid);
 
+// Hero showreel
+const heroReel = document.querySelector('.hero-art');
+if (heroReel) {
+  heroReel.addEventListener('click', () => {
+    openModal(heroReel.dataset.link, heroReel.dataset.title);
+  });
+}
+
 // Smooth scroll for anchor links with offset for sticky header
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   anchor.addEventListener('click', function (e) {
